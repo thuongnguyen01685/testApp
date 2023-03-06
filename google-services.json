@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "930696371486",
+    "project_id": "musicapp-d2dc6",
+    "storage_bucket": "musicapp-d2dc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930696371486:android:3d070d4a2152c7c4bb7d0f",
+        "android_client_info": {
+          "package_name": "com.fos.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930696371486-8bl96b24tqirv1fcls0e4b7dcv51ns91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fos.musicapp",
+            "certificate_hash": "97af07ee958e3001755f6b5aaa0214256b3f5fcc"
+          }
+        },
+        {
+          "client_id": "930696371486-shj8ae0hav11gql1latrlcsta4653jpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcLvoP-MVQ7y6p8SUP1vl9bYmPC9xXz_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930696371486-shj8ae0hav11gql1latrlcsta4653jpg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930696371486-jodepuohe48r9mrugmrh05d4qvdi3fkn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fos.musicapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
